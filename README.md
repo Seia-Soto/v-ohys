@@ -12,7 +12,7 @@ The Ohys-API support for V lang.
 
 # Installation
 
-This module is not available from vpm, so you need to clone this repository instead: `git clone https://github.com/Seia-Soto/v-ohys`
+This module is not available from vpm, so you need to clone this repository instead: `git clone https://github.com/Seia-Soto/v-ohys ohys_api`
 
 # Usage
 
