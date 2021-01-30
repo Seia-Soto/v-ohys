@@ -1,6 +1,8 @@
 Module {
 	name: 'ohys_api'
 	description: 'The Ohys-API support for V lang.'
-	version: '0.0.0'
+	author: 'Seia-Soto <seia@outlook.kr>'
+	version: '0.0.1'
 	dependencies: []
+	license: 'MIT'
 }
