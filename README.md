@@ -22,7 +22,9 @@ Here is an example usage of this module.
 import ohys_api
 
 fn main() {
-  println(ohys_api.get_feed(0))
+  data := ohys_api.get_feed(0)
+
+  println(ohys_api.parse_title(data[0].name))
 }
 ```
 

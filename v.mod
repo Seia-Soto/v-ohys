@@ -3,6 +3,8 @@ Module {
 	description: 'The Ohys-API support for V lang.'
 	author: 'Seia-Soto <seia@outlook.kr>'
 	version: '0.0.1'
-	dependencies: []
+	dependencies: [
+		'spytheman.regex'
+	]
 	license: 'MIT'
 }
